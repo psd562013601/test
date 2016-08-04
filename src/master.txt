@@ -1,11 +1,3 @@
 <<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaa
 
-
-dasgfasdfghalga
-gasfgklashgfklaf
-gasdgfhadgad
-adgsashdjgfkajsg
-=======
-aaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> fd8a24d51dbf187d99c89beab12aa120e8034dfa
