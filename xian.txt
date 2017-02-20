@@ -24,3 +24,4 @@ git log -1                                                # 显示1行日志 -n�
 
 commit 1
 commit 2
+commit 3
